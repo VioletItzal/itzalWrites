@@ -1,0 +1,17 @@
+body {
+  max-width: 800px;
+  background-color: #EFC88B;
+}
+
+.yours {
+  background-color: #574D68;
+}
+
+h1 {
+  color: #CF5C36;
+}
+p {
+  width: 36em;
+  font-size: 16pt;
+  color: #F2E86D;
+}
